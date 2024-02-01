@@ -68,13 +68,15 @@ div{
     text-align: right;
     margin-left: 50px;
     border-width: 0px 0px 2px 5px;
+}
 
 .yellow p {
-    color: #707070; /* Hexadecimal value for dark gray (#707070) */
+    color: #707070;
   }
 
 .green{
     background: #008500;
+    margin-right: 50px;
     text-align: left;
     border-width: 2px 5px 0px 0px;
 }
@@ -82,9 +84,6 @@ div{
 footer{
     background: linear-gradient(to right, #000000 0%, #0000FF 25%, #0066FF 70%, #000000 100%);
     border: #FFFFFF 5px solid;
-    /* font-size: 20px;
-    text-align: right;
-    padding: 15px 15px 15px 0; */
 }
 
 footer p{
